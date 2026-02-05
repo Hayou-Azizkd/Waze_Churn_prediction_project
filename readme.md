@@ -1,4 +1,4 @@
-# 🚗 Waze Churn Prediction – Project Proposal (PACE Framework)
+#  Waze Churn Prediction – Project Proposal (PACE Framework)
 
 This repository contains my **portfolio project** for the **Google Advanced Data Analytics Certificate – Course 1: Foundations of Data Science**.
 
@@ -7,7 +7,7 @@ This project demonstrates my ability to structure and communicate data projects 
 
 ---
 
-## 🧭 Project Overview
+##  Project Overview
 
 **Waze**, a global community-based navigation app, seeks to improve user retention by reducing churn — the rate at which users uninstall or stop using the app.
 
@@ -24,7 +24,7 @@ The plan follows the **PACE framework (Plan, Analyze, Construct, Execute)** to o
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 User churn impacts:
 - Customer retention and satisfaction  
@@ -49,7 +49,7 @@ By leveraging predictive analytics, Waze can:
 
 ---
 
-## 🧱 Project Proposal Details
+##  Project Proposal Details
 
 ### Milestones, Tasks, and Deliverables
 
@@ -87,7 +87,7 @@ By leveraging predictive analytics, Waze can:
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 Through this project, I strengthened my abilities to:
 
