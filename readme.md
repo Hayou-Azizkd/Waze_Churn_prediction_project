@@ -38,7 +38,7 @@ By leveraging predictive analytics, Waze can:
 
 ---
 
-## 🧩 Methodology — PACE Framework
+##  Methodology — PACE Framework
 
 | Stage | Description |
 |:------|:-------------|
@@ -65,7 +65,7 @@ By leveraging predictive analytics, Waze can:
 
 ---
 
-## 📊 Expected Outputs and Project Timeline
+##  Expected Outputs and Project Timeline
 
 ### Expected Outputs
 
